@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Po7di
+- 👋 Hi, I’m Waldemar
 - 👀 I’m interested in blockchain development
 - 🌱 I’m currently learning how to write smart contracts
 - 💞️ I’m looking to collaborate on ...
