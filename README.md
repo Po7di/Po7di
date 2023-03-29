@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Waldemar</h1>
-<h3 align="center">Future Blockchain / Mobile App Developer ⛓️📱</h3>
+<h3 align="center">Strive for first developer job 🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=po7di&label=Profile%20views&color=0e75b6&style=flat" alt="po7di" /> </p>
 
