@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=po7di&label=Profile%20views&color=0e75b6&style=flat" alt="po7di" /> </p>
 
-- 🔭 I’m currently working on **JS Apps, Blockchain Development, DeFi**
+- 🔭 I’m currently working on **iOS Mobile Apps, JS Apps, Blockchain Development, DeFi**
 
 - 🌱 I’m currently learning **Swift, Dart, Flutter, TypeScript, Angular**
 
